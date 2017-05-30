@@ -1,0 +1,10 @@
+var Constants = {}
+Constants.GravityConstant = 1;
+Constants.MaxVelocity = 10;
+Constants.g = new Point(0,0);
+Constants.drawVelocity = false;
+Constants.dVelocity = 40;
+Constants.drawAcceleration = true;
+Constants.dAcceleration = 100000;
+Constants.isClear = true;
+Constants.isSetCenterOnFirst = true;
